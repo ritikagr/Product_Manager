@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Product Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="productListIntent">Product List</string>
+    <string name="printIntent">Print</string>
+    <string name="delete">Delete</string>
+    <string name="productList">Product Details</string>
+    <string name="hintProductQuantity">Enter Product Quantity</string>
+    <string name="hintProductId">Enter Product Id</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="actDiscovery_bond_bonded">Bonded</string>
+    <string name="actDiscovery_bond_nothing">Not Bonded</string>
+    <string name="actDiscovery_msg_select_device">Select Printer Device</string>
+    <string name="actDiscovery_msg_not_find_device">No device found</string>
+    <string name="actDiscovery_msg_scaning_device">Scanning Devices</string>
+    <string name="actDiscovery_msg_bluetooth_not_start">Bluetooth not started</string>
+    <string name="print">Print</string>
+</resources>

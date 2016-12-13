@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.msme.iitism.productmanager.MainActivity">
+
+    <item
+        android:id="@+id/productListIntent"
+        android:orderInCategory="100"
+        android:title="@string/productListIntent"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/printIntent"
+        android:orderInCategory="100"
+        android:title="@string/printIntent"
+        app:showAsAction="never"></item>
+</menu>
